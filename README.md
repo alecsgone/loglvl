@@ -20,13 +20,13 @@ console.warn()
 ```
 
 ### ?loglevel
-will show all console.log calls
+will show all `console.log` calls
 
 ### ?loglevel=warn
-will show all console.warn calls
+will show all `console.warn` calls
 
 ### ?loglevel=error
-will show all console.error calls
+will show all `console.error` calls
 
 ### ?loglevel=verbose
-will show all (log, error, warn)
+will show all (log, error, warn) calls
