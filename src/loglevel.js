@@ -1,5 +1,5 @@
 const queryStringParser = require('./queryStringParser')
-const qs = parseQueryString(document.location.search)
+const qs = queryStringParser(document.location.search)
 const loglevel = {
   ...console
 }
